@@ -1,2 +1,5 @@
 # AI-APP
-AI chat app with login/signup made in python with multi client server,uses json 
+Networking -> Server can handle multiple clients.Client and server use json format for data.
+Login/Singup -> The login and register feutures are controlled by the python server.Uses SQL for storing usernames,passwords.
+AI Chatroom-> Basic chatroom with deepseak r1 model(API)
+
