@@ -5,3 +5,4 @@ AI Chatroom-> Basic chatroom with deepseak r1 model(API)
 UI -> Uses Tkinter for the ui
 
 ![alt text](https://github.com/Adevzz/AI-APP/blob/main/Screenshot%202025-08-25%20144839.png)
+![alt text](https://github.com/Adevzz/AI-APP/blob/main/Screenshot%202025-08-25%20144922.png)
